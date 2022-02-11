@@ -1,7 +1,7 @@
 
 #Download the dataset
 
-filename <- "C:/Final Project-1/temp.zip"
+filename <- "D:/RStudio/projects/Getting-and-Cleaning-Data-Course-Project"
 
 # Checking if archieve already exists.
 
